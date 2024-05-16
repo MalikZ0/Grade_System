@@ -1,6 +1,6 @@
 # I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.
 # Any code taken from other sources is referenced within my code solution.
-# Westminster ID: w1985546   # Name : P.G.M.D.Kumara   # IIT Number :20222145
+# Name : P.G.M.D.Kumara 
 # Date: 04.21.2023
 
 # PART 4
